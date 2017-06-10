@@ -1,1 +1,1 @@
-# projectEulerProblem01
+Project Euler solutions
